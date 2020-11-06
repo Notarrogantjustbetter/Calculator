@@ -1,1 +1,1 @@
-# Calculator with Python and tkinter.
+Calculator application created with Python and tkinter.
