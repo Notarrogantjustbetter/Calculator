@@ -1,1 +1,9 @@
-Calculator application created with Python and tkinter.
+# Calculator
+
+# Language
+
+* Python
+
+# GUI
+
+* Tkinter
